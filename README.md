@@ -4,7 +4,7 @@
 
 ### Entra ID
 
-<img src="Entra-ID/Entra-ID-Overview.png">
+<img src="Entra-ID/Entra-ID-overview.png">
 
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
