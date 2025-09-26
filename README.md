@@ -17,9 +17,9 @@ Step 2: Invite the Guest User
 
 - Navigate to <strong>Entra ID > Users > All users</strong>
 
-- Click + New user
+- Click <strong>+ New user</strong>
 
-- Choose Invite external user
+- Choose <strong>Invite external user</strong>
 
 <img src="Entra-ID/New-Guest-User-Entra-ID.png">
 
