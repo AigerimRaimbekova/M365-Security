@@ -31,11 +31,13 @@ Email address: example@example.com
 
 (Optional) Add a personal message
 <img src="Entra-ID/Invite-External-User-Basics.png">
+
 <img src="Entra-ID/Invite-External-User-Properties.png">
 
 - Click <strong>Review + Invite</strong>
 <img src="Entra-ID/Invite-External-User-Review-Invite.png">
-<img src="Entra-ID/Invitation_notification.png">
+
+<img src="Entra-ID/Invitation-Notification.png">
 
 - The user will receive an email invitation. Once they accept, a B2B guest account is created in your directory.
 <img src="Entra-ID/Invitation-Email.png">
