@@ -3,6 +3,9 @@
 ## Contents:
 
 ### Entra ID
+
+/assets/Entra-ID/Entra-ID-Overview.png
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
