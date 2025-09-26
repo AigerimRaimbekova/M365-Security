@@ -15,13 +15,11 @@ Step 1:
 
 Step 2: Invite the Guest User
 
-- Navigate to Identity > Users > All users
+- Navigate to <strong>Entra ID > Users > All users</strong>
 
-- Click + Invite exteernal user
+- Click + New user
 
-- Choose:
-
-Invite user
+- Choose Invite external user
 
 <img src="Entra-ID/New-Guest-User-Entra-ID.png">
 
