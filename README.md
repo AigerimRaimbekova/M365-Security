@@ -23,7 +23,7 @@ Step 2: Invite the Guest User
 
 Invite user
 
-<img src="Entra-ID/Neew-Guest-User-Entra-ID.png">
+<img src="Entra-ID/New-Guest-User-Entra-ID.png">
 
 - Fill out the form:
 
