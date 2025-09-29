@@ -42,6 +42,12 @@ Email address: example@example.com
 - The user will receive an email invitation. Once they accept, a B2B guest account is created in your directory.
 <img src="Entra-ID/Invitation-Email.png">
 
+### Scenario 2. Complete an App Registration in Microsoft Entra ID
+Step 1: Open App Registrations
+- In the left menu, under "Manage", click on <strong>App registrations</strong>
+- Click the "<strong>New registration</strong>" button at the top
+<img src="Entra-ID/App-Registration1.png">
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
