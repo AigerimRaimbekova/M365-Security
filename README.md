@@ -48,6 +48,45 @@ Step 1: Open App Registrations
 - Click the "<strong>New registration</strong>" button at the top
 <img src="Entra-ID/App-Registration1.png">
 
+Step 2: Register a New Application
+
+- Fill out the registration form:
+- Name	- A friendly name for your app (e.g., MyApp Web Client)
+- Supported account types. Choose who can sign in:
+- Single tenant: Only users in your org
+- Multi-tenant: Any Azure AD tenant
+- Personal Microsoft accounts: Optional
+- Redirect URI (optional) - URL where tokens are sent after authentication.
+For web apps: https://localhost:3000/auth/callback.  You can leave this blank and add later.
+- Click <strong>Register</strong>
+<img src="Entra-ID/App-Registration2.png">
+<img src="Entra-ID/App-Registration3.png">
+
+Step 3: Define API Permissions
+
+- Click <strong>API permissions</strong>
+
+- Click <strong>Add a permission</strong>
+<img src="Entra-ID/App-Registration4.png">
+
+- Choose:
+
+Microsoft Graph (commonly used)
+
+Or your own/custom API
+<img src="Entra-ID/App-Registration5.png">
+
+- Choose permission type:
+
+Delegated – acting as signed-in user
+
+Application – app-only, no user interaction
+<img src="Entra-ID/App-Registration6.png">
+
+- Select the scopes you need (e.g., User.Read), then <strong>Add permissions</strong>
+<img src="Entra-ID/App-Registration7.png">
+
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
