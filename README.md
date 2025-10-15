@@ -145,6 +145,34 @@ Step 4: Configure Session Controls
 Step 5: Enable the policy and click **Create**
 <img src="Entra-ID/SC_end.png">
 
+### Scenario 5. Creating a Security Group and Assigning It to the Application
+Step 1: Navigate to Groups
+- In the left-hand navigation go to **Entra ID** → **Groups**
+- Click **+ New group**
+<img src="Entra-ID/Group_new.png">
+
+Step 2: Choose Group Type and Fill Out Details:
+- Use **Security** for Access Controls
+- Choose a descriptive **Group name**
+
+Step 3: Choose Group Owners and Members:
+<img src="Entra-ID/group_users.png">
+
+Step 4: Create the Group
+- Click **Create**
+<img src="Entra-ID/Group_create.png">
+
+Step 5: Use a Security Group in Conditional Access
+- Go to **Entra ID** > **Conditional Access**
+- Click **+ Create new policy**
+- Under **Users**, choose **Include → Groups**
+- Select your **Security group**
+<img src="Entra-ID/Group_app_users.png">
+- Select you application under **Target resources** 
+<img src="Entra-ID/Group_app_app.png">
+- Apply desired controls (e.g., block access, require MFA)
+<img src="Entra-ID/Group_app_access.png">
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
