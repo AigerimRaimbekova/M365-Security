@@ -137,14 +137,12 @@ Step 3: Choose Cloud Apps or Actions
 <img src="Entra-ID/SC_resources.png">
 
 Step 4: Configure Session Controls
-- In the left pane, go to Access controls → Session
-- Choose from the session control options:
-Sign-in frequency
-- Toggle it On
+- In the left pane, go to **Access controls** → **Session**
+- Choose from the session control options: **Sign-in frequency**
 - Set the frequency (e.g., every **4 hours**, **1 day**, etc.). This forces users to re-authenticate after the specified duration.
 <img src="Entra-ID/SC_frequency.png">
 
-Step 5: Enable the policy
+Step 5: Enable the policy and click **Create**
 <img src="Entra-ID/SC_end.png">
 
 ### Microsoft Defender for Endpoint
