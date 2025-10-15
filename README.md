@@ -112,7 +112,7 @@ Step 4: Choose access controls
 ✅ Grant access
 ✅ Require multi-factor authentication
 - Click <strong>Select</strong>
-<img src="Entra-ID/CA_controls.png">
+<img src="Entra-ID/CA_grant.png">
 
 Step 5: Enable the policy and save it
 - Set <strong>Enable policy</strong> to: On
