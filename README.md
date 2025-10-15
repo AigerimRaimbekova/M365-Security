@@ -173,6 +173,19 @@ Step 5: Use a Security Group in Conditional Access
 - Apply desired controls (e.g., block access, require MFA)
 <img src="Entra-ID/group_app_access.png">
 
+### Scenario 6. Per-user Multi-Factor Authentication (MFA)
+Step 1: Navigate to **Entra ID** > **Multi-Factor Authentication**
+Step 2: Select **Additional cloud-based multifactor authentication settings**
+<img src="Entra-ID/MFA_start.png">
+Step 3: Search for the user(s) and check their name
+Step 4: Configure <strong>User MFA Settings</strong>
+<img src="Entra-ID/MFA_settings.png">
+Step 5: Click <strong>Enable MFA</strong>
+<img src="Entra-ID/MFA_enable.png">
+<img src="Entra-ID/MFA_enableenable.png">
+
+
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
