@@ -94,6 +94,32 @@ Step 1: Sign in to Entra Admin Centre and navigate to <strong>Conditional Access
 - Click <strong>+ Create new policy</strong>
 <img src="Entra-ID/CA_new_policy.png">
 
+Step 2: Create a policy
+- Name the policy, e.g. "Require MFA and Restrict OS for MyApp"
+- Add assignments. Choose <strong>Users</strong> - All users and <strong>Target Resources</strong> - MyApp
+<img src="Entra-ID/CA_users_resources.png">
+
+Step 3: Choose conditions
+- Under <strong>Conditions</strong>, click <strong>Device platforms</strong>
+- Enable the setting: <strong>Configure > Yes</strong>
+- Under <strong>Include</strong>, select: Android, iOS, Windows
+- Under <strong>Exclude</strong>, optionally exclude: macOS, Linux, or Other platforms if needed
+<img src="Entra-ID/CA_conditions.png">
+
+Step 4: Choose access controls
+- Click <strong>Grant</strong>
+- Choose:
+✅ Grant access
+✅ Require multi-factor authentication
+- Click <strong>Select</strong>
+<img src="Entra-ID/CA_controls.png">
+
+Step 5: Enable the policy and save it
+- Set <strong>Enable policy</strong> to: On
+- Click <strong>Save</strong>
+<img src="Entra-ID/CA_save.png">
+
+
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 
