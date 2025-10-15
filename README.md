@@ -119,6 +119,33 @@ Step 5: Enable the policy and save it
 - Click <strong>Save</strong>
 <img src="Entra-ID/CA_save.png">
 
+### Scenario 4. Setting Session Controls, e.g. Sign-In Frequency
+Step 1: Navigate to Conditional Access
+- Go to: https://entra.microsoft.com 
+- In the left-hand navigation, go to <strong>Entra ID > Conditional Access</strong>
+- Click <strong>+ Create new policy</strong>
+<img src="Entra-ID/CA_new_policy.png">
+
+Step 2: Create a policy
+- Name the policy, e.g. "Session Control - Sign-In Frequency"
+- Assign users or groups under <strong>Assignments > Users</strong> 
+<img src="Entra-ID/SC_users.png">
+
+Step 3: Choose Cloud Apps or Actions
+- Under <strong>Assignments > Target resources</strong> select <strong>Cloud apps</strong>
+- Choose one or more apps (e.g., Microsoft 365, SharePoint Online)
+<img src="Entra-ID/SC_resources.png">
+
+Step 4: Configure Session Controls
+- In the left pane, go to Access controls → Session
+- Choose from the session control options:
+Sign-in frequency
+- Toggle it On
+- Set the frequency (e.g., every **4 hours**, **1 day**, etc.). This forces users to re-authenticate after the specified duration.
+<img src="Entra-ID/SC_frequency.png">
+
+Step 5: Enable the policy
+<img src="Entra-ID/SC_end.png">
 
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
