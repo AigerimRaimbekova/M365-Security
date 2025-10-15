@@ -168,10 +168,10 @@ Step 5: Use a Security Group in Conditional Access
 - Under **Users**, choose **Include → Groups**
 - Select your **Security group**
 <img src="Entra-ID/Group_app_users.png">
-- Select you application under **Target resources** 
-<img src="Entra-ID/Group_app_app.png">
+- Select you application under <strong>Target resources</strong>
+<img src="Entra-ID/group_app_app.png">
 - Apply desired controls (e.g., block access, require MFA)
-<img src="Entra-ID/Group_app_access.png">
+<img src="Entra-ID/group_app_access.png">
 
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
