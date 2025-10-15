@@ -44,6 +44,7 @@ Email address: example@example.com
 
 ### Scenario 2. Complete an App Registration in Microsoft Entra ID
 Step 1: Open App Registrations
+
 - In the left menu, under "Manage", click on <strong>App registrations</strong>
 - Click the "<strong>New registration</strong>" button at the top
 <img src="Entra-ID/App-Registration1.png">
@@ -86,6 +87,12 @@ Application – app-only, no user interaction
 - Select the scopes you need (e.g., User.Read), then <strong>Add permissions</strong>
 <img src="Entra-ID/App-Registration7.png">
 
+### Scenario 3. Create the Conditional Access policy that grants access to a specific app on Windows, Android, and iOS devices, and requires MFA
+Step 1: Sign in to Entra Admin Centre and navigate to <strong>Conditional Access</strong>
+- Go to: https://entra.microsoft.com 
+- In the left-hand navigation, go to <strong>Entra ID > Conditional Access</strong>
+- Click <strong>+ Create new policy</strong>
+<img src="Entra-ID/CA_new_policy.png">
 
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
