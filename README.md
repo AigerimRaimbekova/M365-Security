@@ -16,6 +16,8 @@
 
 [Scenario 6. Per-user Multi-Factor Authentication (MFA)](#scenario-6-per-user-multi-factor-authentication-mfa)
 
+### Defender for Office 365
+
 Typical infrastructure architecture for medium-size enterprise companies.
 <img src="Entra-ID/Entra-ID-overview.png">
 
