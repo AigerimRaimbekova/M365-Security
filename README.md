@@ -6,15 +6,15 @@
 
 [Scenario 1. Invite a Guest User to Microsoft Entra ID](#scenario-1-invite-a-guest-user-to-microsoft-entra-id) 
 
-**Scenario 2. Complete an App Registration in Microsoft Entra ID**
+[Scenario 2. Complete an App Registration in Microsoft Entra ID](#scenario-2-complete-an-app-registration-in-microsoft-entra-id)
 
-**Scenario 3. Create the Conditional Access policy that grants access to a specific app on Windows, Android, and iOS devices, and requires MFA**
+[Scenario 3. Create the Conditional Access policy that grants access to a specific app on Windows, Android, and iOS devices, and requires MFA](#scenario-3-create-the-conditional-access-policy-that-grants-access-to-a-specific-app-on-windows-android-and-ios-devices-and-requires-mfa](https://github.com/AigerimRaimbekova/M365-Security/tree/main?tab=readme-ov-file#scenario-3-create-the-conditional-access-policy-that-grants-access-to-a-specific-app-on-windows-android-and-ios-devices-and-requires-mfa)
 
-**Scenario 4. Setting Session Controls, e.g. Sign-In Frequency**
+[Scenario 4. Setting Session Controls, e.g. Sign-In Frequency](#scenario-4-setting-session-controls-eg-sign-in-frequency)
 
-**Scenario 5. Creating a Security Group and Assigning It to the Application**
+[Scenario 5. Creating a Security Group and Assigning It to the Application](#scenario-5-creating-a-security-group-and-assigning-it-to-the-application)
 
-**Scenario 6. Per-user Multi-Factor Authentication (MFA)**
+[Scenario 6. Per-user Multi-Factor Authentication (MFA)](#scenario-6-per-user-multi-factor-authentication-mfa)
 
 Typical infrastructure architecture for medium-size enterprise companies.
 <img src="Entra-ID/Entra-ID-overview.png">
