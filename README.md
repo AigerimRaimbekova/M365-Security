@@ -3,6 +3,19 @@
 ## Contents:
 
 ### Entra ID
+
+[Scenario 1. Invite a Guest User to Microsoft Entra ID](#scenario-1-invite-a-guest-user-to-microsoft-entra-id) 
+
+**Scenario 2. Complete an App Registration in Microsoft Entra ID**
+
+**Scenario 3. Create the Conditional Access policy that grants access to a specific app on Windows, Android, and iOS devices, and requires MFA**
+
+**Scenario 4. Setting Session Controls, e.g. Sign-In Frequency**
+
+**Scenario 5. Creating a Security Group and Assigning It to the Application**
+
+**Scenario 6. Per-user Multi-Factor Authentication (MFA)**
+
 Typical infrastructure architecture for medium-size enterprise companies.
 <img src="Entra-ID/Entra-ID-overview.png">
 
