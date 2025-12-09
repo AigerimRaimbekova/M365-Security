@@ -232,10 +232,10 @@ Step 4: Configure Policy Settings
 - Add users such as CFO, Finance managers, Executives
 <img src="MDO365/Policy6.png">
 
-- Domain Impersonation Protection
+Domain Impersonation Protection
 - Add your organization's primary and secondary domains
 
-- Advanced Phishing Threshold
+Advanced Phishing Threshold
 - Set to 4 (high protection)
 
 - Select the relevant tips and recommendations
