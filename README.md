@@ -17,6 +17,8 @@
 [Scenario 6. Per-user Multi-Factor Authentication (MFA)](#scenario-6-per-user-multi-factor-authentication-mfa)
 
 ### Defender for Office 365
+[Scenario 1. Creating Department-Specific Anti-Fishing Policies](#scenario-1-creating-department-specific-anti-fishing-policies)
+[Policy 1 - Finance Department (most strict)](#policy-1---finance-department-most-strict)
 
 Typical infrastructure architecture for medium-size enterprise companies.
 <img src="Entra-ID/Entra-ID-overview.png">
@@ -206,7 +208,7 @@ Step 5: Click <strong>Enable MFA</strong>
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
 ### Scenario 1. Creating Department-Specific Anti-Fishing Policies
-### Part I. Policy 1 - Finance Department (most strict)
+### Policy 1 - Finance Department (most strict)
 Step 1: Go to Microsoft 365 Defender
 - Sign in to: security.microsoft.com
 - In the left pane, go to:
