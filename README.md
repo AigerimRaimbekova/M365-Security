@@ -241,6 +241,16 @@ Advanced Phishing Threshold
 - Select the relevant tips and recommendations
 <img src="MDO365/Policy7.png">
 
+Step 5: Actions on Detection
+Recommend:
+- Quarantine message
+- Enable spoof intelligence
+- Enable mailbox intelligence
+<img src="MDO365/Policy8.png">
+
+Step 6: Review and Submit
+<img src="MDO365/Policy9.png">
+
 
 
 
