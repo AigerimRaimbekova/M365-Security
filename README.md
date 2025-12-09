@@ -205,5 +205,14 @@ Step 5: Click <strong>Enable MFA</strong>
 
 ### Microsoft Defender for Endpoint
 ### Microsoft Defender for Office 365
+### Scenario 1. Creating Department-Specific Anti-Fishing Policies
+### Part I. Policy 1 - Finance Department (most strict)
+Step 1: Go to Microsoft 365 Defender
+- Sign in to: security.microsoft.com
+- In the left pane, go to:
+**Email & Collaboration** → **Policies & Rules** → **Threat Policies**
+- Select: **Anti-phishing**
+<img src="MDO365/Policy1.png">
+<img src="MDO365/Policy2.png">
 
 
