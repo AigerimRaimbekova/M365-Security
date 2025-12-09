@@ -222,4 +222,25 @@ Step 2: Create a New Anti-Fishing Policy
 <img src="MDO365/Policy3.png">
 <img src="MDO365/Policy4.png">
 
+Step 3: Assign the Policy to Finance
+- Under Users, groups, and domains add the relevant users and groups
+<img src="MDO365/Policy5.png">
+
+Step 4: Configure Policy Settings
+- Impersonation Protection
+- Enable user impersonation.
+- Add users such as CFO, Finance managers, Executives
+<img src="MDO365/Policy6.png">
+
+- Domain Impersonation Protection
+- Add your organization's primary and secondary domains
+
+- Advanced Phishing Threshold
+- Set to 4 (high protection)
+
+- Select the relevant tips and recommendations
+<img src="MDO365/Policy7.png">
+
+
+
 
