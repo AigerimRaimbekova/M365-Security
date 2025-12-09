@@ -214,6 +214,7 @@ Step 1: Go to Microsoft 365 Defender
 - Select: **Anti-phishing**
 <img src="MDO365/Policy1.png">
 <img src="MDO365/Policy2.png">
+
 Step 2: Create a New Anti-Fishing Policy
 - Click Create policy
 - Name it: Finance Anti-Phishing Policy (Strict).
