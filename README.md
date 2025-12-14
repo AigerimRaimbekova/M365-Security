@@ -277,14 +277,38 @@ Step 4: Actions on Detection
 
 
 Recommend:
-- Quarantine high-confidence phish
-- Redirect to admin mailbox (optional, for review)
-- Enable mailbox intelligence
+- **Quarantine** high-confidence phish
+- **Redirect to admin mailbox** (optional, for review)
+- Enable **mailbox intelligence**
 <img src="MDO365/Policy13.png">
 
 Step 5: Review and Submit
 <img src="MDO365/Policy14.png">
 
+### Policy 3 - Development Department (Balanced)
+Step 1: Create New Policy
+- Create another policy
+- Name: **Development Anti-Phishing Policy (Balanced)**
+<img src="MDO365/Policy15.png">
 
+Step 2: Assign to Development Group
+- Under **Users, groups, and domains** add the relevant users and groups
+<img src="MDO365/Policy16.png">
+
+Step 3: Configure Settings
+
+Developers need external interactions (GitHub, vendors), so rules must avoid excessive blocking.
+- Enable **domain impersonation protection**
+- Enable **user impersonation** for leads/managers
+- **Threshold**: 2 or 3 (balanced)
+<img src="MDO365/Policy17.png">
+
+Step 4: Actions on Detection
+- **Deliver to Junk** for likely phishing
+- **Quarantine** for high-confidence phishing
+<img src="MDO365/Policy18.png">
+
+Step 5: Review and Submit
+<img src="MDO365/Policy19.png">
 
 
