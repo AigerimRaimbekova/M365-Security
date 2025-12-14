@@ -219,25 +219,25 @@ Step 1: Go to Microsoft 365 Defender
 
 Step 2: Create a New Anti-Fishing Policy
 - Click Create policy
-- Name it: Finance Anti-Phishing Policy (Strict).
+- Name it: **Finance Anti-Phishing Policy (Strict)**
 - Add a description (optional)
 <img src="MDO365/Policy3.png">
 <img src="MDO365/Policy4.png">
 
 Step 3: Assign the Policy to Finance
-- Under Users, groups, and domains add the relevant users and groups
+- Under **Users, groups, and domains** add the relevant users and groups
 <img src="MDO365/Policy5.png">
 
 Step 4: Configure Policy Settings
-- Impersonation Protection
+- **Impersonation Protection**
 - Enable user impersonation.
 - Add users such as CFO, Finance managers, Executives
 <img src="MDO365/Policy6.png">
 
-Domain Impersonation Protection
+**Domain Impersonation Protection**
 - Add your organization's primary and secondary domains
 
-Advanced Phishing Threshold
+**Advanced Phishing Threshold**
 - Set to 4 (high protection)
 
 - Select the relevant tips and recommendations
@@ -252,6 +252,25 @@ Recommend:
 
 Step 6: Review and Submit
 <img src="MDO365/Policy9.png">
+
+### Policy 2 - Front Desk Department (Moderately Strict)
+Step 1: Create New Policy
+- Create another policy
+- Name: **Front Desk Anti-Phishing Policy (Moderate-Strict)**
+<img src="MDO365/Policy10.png">
+
+Step 2: Assign to Front Desk Group
+- Under **Users, groups, and domains** add the relevant users and groups
+<img src="MDO365/Policy11.png">
+
+Step 3: Configure Settings
+Because the front desk receives external communication:
+- Enable **user impersonation** (focus on front-desk staff + supervisors)
+- Enable **domain impersonation**
+- **Threshold**: 3 or 4
+<img src="MDO365/Policy12.png">
+
+
 
 
 
