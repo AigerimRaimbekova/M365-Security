@@ -245,6 +245,7 @@ Step 4: Configure Policy Settings
 
 Step 5: Actions on Detection
 Recommend:
+
 - Quarantine message
 - Enable spoof intelligence
 - Enable mailbox intelligence
