@@ -320,10 +320,11 @@ Step 5: Review and Submit
 ### Scenario 2. Creating Department-Specific Anti-Spam Policies
 ### Policy 1 - Finance Department
 Step 1: Create a new anti-spam policy
-- - Sign in to: security.microsoft.com
+- Sign in to: security.microsoft.com
 - In the left pane, go to:
 **Email & Collaboration** → **Policies & Rules** → **Threat Policies**
 <img src="MDO365/Policy20.png">
+
 - Select: **Anti-spam**
 - Click **Create policy**
 - Choose **Inbound**
