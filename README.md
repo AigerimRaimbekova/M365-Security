@@ -344,6 +344,9 @@ Step 4: Configure policy settings
 - Set the **threshold** to 6
 <img src="MDO365/Policy25.png">
 
+- Under **Mark as spam** enable empty messages, JavaScript in HTML, form tags, frames/iframes, web bugs
+<img src="MDO365/Policy31.png">
+
 Step 5: Set your actions for this policy
 - Under **Actions**
 - Choose **Quarantine message** for spam, high confidence spam, phishing, high confidence phishing, bulk complaint level (BCL) met or exceeded
@@ -354,4 +357,7 @@ Step 6: Choose which users, group and domains to allow or block in this policy u
 
 Step 7: Review and create
 <img src="MDO365/Policy28.png">
+
+### Policy 2 - Front-Desk Department
+
 
