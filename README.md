@@ -223,7 +223,7 @@ Step 1: Go to Microsoft 365 Defender
 <img src="MDO365/Policy2.png">
 
 Step 2: Create a New Anti-Fishing Policy
-- Click Create policy
+- Click **Create policy**
 - Name it: **Finance Anti-Phishing Policy (Strict)**
 - Add a description (optional)
 <img src="MDO365/Policy3.png">
@@ -316,4 +316,16 @@ Step 4: Actions on Detection
 Step 5: Review and Submit
 <img src="MDO365/Policy19.png">
 
+
+### Scenario 2. Creating Department-Specific Anti-Spam Policies
+### Policy 1 - Finance Department
+Step 1: Create a new anti-spam policy
+- - Sign in to: security.microsoft.com
+- In the left pane, go to:
+**Email & Collaboration** → **Policies & Rules** → **Threat Policies**
+<img src="MDO365/Policy20.png">
+- Select: **Anti-spam**
+- Click **Create policy**
+- Choose **Inbound**
+<img src="MDO365/Policy22.png">
 
