@@ -359,5 +359,31 @@ Step 7: Review and create
 <img src="MDO365/Policy28.png">
 
 ### Policy 2 - Front-Desk Department
+Step 1: Creat and name the policy
+- Name: **AntiSpam-FrontDesk**
+<img src="MDO365/Policy29.png">
 
+Step 3: Apply to the users and groups
+- Under **Users, groups, and domains** add the relevant users and groups
+<img src="MDO365/Policy30.png">
+
+Step 4: Configure policy settings
+- Under **Bulk email threshold & spam properties**:
+- Enable **Image links to remote websites**, **Numeric IP address in URL**, **URL redirect to other port**
+- Set the **threshold** to 7
+<img src="MDO365/Policy32.png">
+
+- Under **Mark as spam** enable empty messages, JavaScript in HTML, form tags, frames/iframes, web bugs
+<img src="MDO365/Policy31.png">
+
+Step 5: Set your actions for this policy
+- Under **Actions**
+- Choose **Quarantine message** for spam, high confidence spam, phishing, high confidence phishing, bulk complaint level (BCL) met or exceeded
+<img src="MDO365/Policy33.png">
+
+Step 6: Choose which users, group and domains to allow or block in this policy under **Allow & blocklist**
+<img src="MDO365/Policy34.png">
+
+Step 7: Review and create
+<img src="MDO365/Policy35.png">
 
