@@ -18,8 +18,11 @@
 
 ### Defender for Office 365
 [Scenario 1. Creating Department-Specific Anti-Fishing Policies](#scenario-1-creating-department-specific-anti-fishing-policies)
+
 [Policy 1 - Finance Department (most strict)](#policy-1---finance-department-most-strict)
+
 [Policy 2 - Front Desk Department (Moderately Strict)](#policy-2---front-desk-department-moderately-strict)
+
 [Policy 3 - Development Department (Balanced)](#policy-3---development-department-balanced)
 
 Typical infrastructure architecture for medium-size enterprise companies.
