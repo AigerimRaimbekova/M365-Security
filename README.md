@@ -270,7 +270,15 @@ Because the front desk receives external communication:
 - **Threshold**: 3 or 4
 <img src="MDO365/Policy12.png">
 
+Step 4: Actions on Detection
+Recommend:
+- Quarantine high-confidence phish
+- Redirect to admin mailbox (optional, for review)
+- Enable mailbox intelligence
+<img src="MDO365/Policy13.png">
 
+Step 5: Review and Submit
+<img src="MDO365/Policy14.png">
 
 
 
