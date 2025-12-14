@@ -265,6 +265,8 @@ Step 2: Assign to Front Desk Group
 <img src="MDO365/Policy11.png">
 
 Step 3: Configure Settings
+
+
 Because the front desk receives external communication:
 - Enable **user impersonation** (focus on front-desk staff + supervisors)
 - Enable **domain impersonation**
@@ -272,6 +274,8 @@ Because the front desk receives external communication:
 <img src="MDO365/Policy12.png">
 
 Step 4: Actions on Detection
+
+
 Recommend:
 - Quarantine high-confidence phish
 - Redirect to admin mailbox (optional, for review)
