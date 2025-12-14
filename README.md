@@ -350,6 +350,8 @@ Step 5: Set your actions for this policy
 <img src="MDO365/Policy26.png">
 
 Step 6: Choose which users, group and domains to allow or block in this policy under **Allow & blocklist**
+<img src="MDO365/Policy27.png">
 
 Step 7: Review and create
-<img src="MDO365/Policy27.png">
+<img src="MDO365/Policy28.png">
+
