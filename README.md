@@ -244,7 +244,8 @@ Step 4: Configure Policy Settings
 <img src="MDO365/Policy7.png">
 
 Step 5: Actions on Detection
-\n Recommend:
+
+Recommend:
 - Quarantine message
 - Enable spoof intelligence
 - Enable mailbox intelligence
