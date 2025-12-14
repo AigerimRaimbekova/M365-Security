@@ -330,3 +330,26 @@ Step 1: Create a new anti-spam policy
 - Choose **Inbound**
 <img src="MDO365/Policy22.png">
 
+Step 2: Name the policy
+- Name: **AntiSpam-Finance-Strict**
+<img src="MDO365/Policy23.png">
+
+Step 3: Apply to the users and groups
+- Under **Users, groups, and domains** add the relevant users and groups
+<img src="MDO365/Policy24.png">
+
+Step 4: Configure policy settings
+- Under **Bulk email threshold & spam properties**:
+- Enable **Image links to remote websites**, **Numeric IP address in URL**, **URL redirect to other port**
+- Set the **threshold** to 6
+<img src="MDO365/Policy25.png">
+
+Step 5: Set your actions for this policy
+- Under **Actions**
+- Choose **Quarantine message** for spam, high confidence spam, phishing, high confidence phishing, bulk complaint level (BCL) met or exceeded
+<img src="MDO365/Policy26.png">
+
+Step 6: Choose which users, group and domains to allow or block in this policy under **Allow & blocklist**
+
+Step 7: Review and create
+<img src="MDO365/Policy27.png">
