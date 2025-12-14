@@ -387,4 +387,33 @@ Step 6: Choose which users, group and domains to allow or block in this policy u
 Step 7: Review and create
 <img src="MDO365/Policy34.png">
 
+### Policy 3 - Development Department
+Step 1: Creat and name the policy
+- Name: **AntiSpam-Dev**
+<img src="MDO365/Policy35.png">
+
+Step 3: Apply to the users and groups
+- Under **Users, groups, and domains** add the relevant users and groups
+<img src="MDO365/Policy36.png">
+
+Step 4: Configure policy settings
+- Under **Bulk email threshold & spam properties**:
+- Enable **Image links to remote websites**, **Numeric IP address in URL**, **URL redirect to other port**
+- Set the **threshold** to 4
+<img src="MDO365/Policy37.png">
+
+- Under **Mark as spam** enable empty messages, JavaScript in HTML, form tags, frames/iframes, web bugs unless it breaks workflows
+<img src="MDO365/Policy31.png">
+
+Step 5: Set your actions for this policy
+- Under **Actions**
+- Choose **Quarantine message** for phishing and high confidence phishing, enable **Move message to Junk Email folder** for spam, high confidence spam, and bulk complaint level (BCL) met or exceeded
+<img src="MDO365/Policy38.png">
+
+Step 6: Choose which users, group and domains to allow or block in this policy under **Allow & blocklist**
+<img src="MDO365/Policy27.png">
+
+Step 7: Review and create
+<img src="MDO365/Policy39.png">
+
 
