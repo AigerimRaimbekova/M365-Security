@@ -466,4 +466,34 @@ Step 4: Configure the settings of the policy
 Step 5: Review and submit
 <img src="MDO365/Policy48.png">
 
+### Scenario 5. Creating Department-Specific Safe Links Policies
+### Policy 1 - Finance and Front Desk Departments
+Step 1: Create a new safe links policy
+- Go to **Threat policies**
+- Click **Safe Links**
+- Select **Create policy**
+<img src="MDO365/Policy49.png">
+
+Step 2: Name the policy
+- Give the name to your policy, e.g. "SL-Finance-FrontDesk"
+<img src="MDO365/Policy50.png">
+
+Step 3: Apply to the relevant users and groups
+- Under **Users and domains** add the relevant users
+<img src="MDO365/Policy51.png">
+
+Step 4: Configure URL & click protection settings
+- Turn on **safe links**
+- Apply safe links to email
+- Apply real-time URL scanning
+- Wait for URL scanning
+- Do not rewrite URLs
+- Track user clicks
+<img src="MDO365/Policy52.png">
+
+Step 5: Set notifications text: default or custom 
+<img src="MDO365/Policy53.png">
+
+Step 6: Review and submit
+<img src="MDO365/Policy54.png">
 
