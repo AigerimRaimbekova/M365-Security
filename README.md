@@ -359,7 +359,7 @@ Step 7: Review and create
 <img src="MDO365/Policy28.png">
 
 ### Policy 2 - Front-Desk Department
-Step 1: Creat and name the policy
+Step 1: Create and name the policy
 - Name: **AntiSpam-FrontDesk**
 <img src="MDO365/Policy29.png">
 
@@ -388,7 +388,7 @@ Step 7: Review and create
 <img src="MDO365/Policy34.png">
 
 ### Policy 3 - Development Department
-Step 1: Creat and name the policy
+Step 1: Create and name the policy
 - Name: **AntiSpam-Dev**
 <img src="MDO365/Policy35.png">
 
@@ -415,5 +415,16 @@ Step 6: Choose which users, group and domains to allow or block in this policy u
 
 Step 7: Review and create
 <img src="MDO365/Policy39.png">
+
+### Creating an Anti-Malware Policy
+Step 1: Create a new anti-malware policy
+- Go to **Threat policies**
+- Click **Anti-malware**
+- Select **Create policy**
+<img src="MDO365/Policy40.png">
+
+Step 2: Name the policy
+- Give the name to your policy, e.g. "Anti-Malware-AllDepartments"
+<img src="MDO365/Policy41.png">
 
 
