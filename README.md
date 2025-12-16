@@ -25,6 +25,24 @@
 
 [Policy 3 - Development Department (Balanced)](#policy-3---development-department-balanced)
 
+[Scenario 2. Creating Department-Specific Anti-Spam Policies](#scenario-2-creating-department-specific-anti-spam-policies)
+
+[Policy 1 - Finance Department](#policy-1---finance-department)
+
+[Policy 2 - Front-Desk Department](#policy-2---front-desk-department)
+
+[Policy 3 - Development Department](#policy-3---development-department)
+
+[Scenario 3. Creating an Anti-Malware Policy](#scenario-3-creating-an-anti-malware-policy)
+
+[Scenario 4. Creating a Safe Attachments Policy](#scenario-4-creating-a-safe-attachments-policy)
+
+[Scenario 5. Creating Department-Specific Safe Links Policies](#scenario-5-creating-department-specific-safe-links-policies)
+
+[Policy 1 - Finance and Front Desk Departments](#policy-1---finance-and-front-desk-departments)
+
+[Policy 2 - Development Department](#policy-2---development-department)
+
 Typical infrastructure architecture for medium-size enterprise companies.
 <img src="Entra-ID/Entra-ID-overview.png">
 
