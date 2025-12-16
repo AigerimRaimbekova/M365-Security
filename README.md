@@ -497,3 +497,31 @@ Step 5: Set notifications text: default or custom
 Step 6: Review and submit
 <img src="MDO365/Policy54.png">
 
+### Policy 2 - Development Department
+Step 1: Create a new safe links policy
+- Go to **Threat policies**
+- Click **Safe Links**
+- Select **Create policy**
+<img src="MDO365/Policy49.png">
+
+Step 2: Name the policy
+- Give the name to your policy, e.g. "SL-Dev"
+<img src="MDO365/Policy50new.png">
+
+Step 3: Apply to the relevant users and groups
+- Under **Users and domains** add the relevant users
+<img src="MDO365/Policy51new.png">
+
+Step 4: Configure URL & click protection settings
+- Turn on **safe links**
+- Apply safe links to email
+- Apply real-time URL scanning
+- Wait for URL scanning
+- Do not rewrite URLs
+<img src="MDO365/Policy52new.png">
+
+Step 5: Set notifications text: default or custom 
+<img src="MDO365/Policy53.png">
+
+Step 6: Review and submit
+<img src="MDO365/Policy54new.png">
