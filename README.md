@@ -442,3 +442,28 @@ Step 4: Configure the settings of the policy
 Step 5: Review and submit
 <img src="MDO365/Policy44.png">
 
+### Scenario 4. Creating a Safe Attachments Policy
+Step 1: Create a new safe attachments policy
+- Go to **Threat policies**
+- Click **Safe Attachments**
+- Select **Create policy**
+<img src="MDO365/Policy45.png">
+
+Step 2: Name the policy
+- Give the name to your policy, e.g. "SA-AllDepartments"
+<img src="MDO365/Policy46new.png">
+
+Step 3: Apply to the relevant users and groups
+- Under **Users and domains** add the relevant users
+<img src="MDO365/Policy47.png">
+
+Step 4: Configure the settings of the policy
+- Under **Settings** choose the following:
+- **Block** current and future messages and attachments with detected malware
+- **Redirect** messages with detected attachments to the admin
+<img src="MDO365/Policy47after.png">
+
+Step 5: Review and submit
+<img src="MDO365/Policy48.png">
+
+
