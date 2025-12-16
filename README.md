@@ -416,7 +416,7 @@ Step 6: Choose which users, group and domains to allow or block in this policy u
 Step 7: Review and create
 <img src="MDO365/Policy39.png">
 
-### Creating an Anti-Malware Policy
+### Scenario 3. Creating an Anti-Malware Policy
 Step 1: Create a new anti-malware policy
 - Go to **Threat policies**
 - Click **Anti-malware**
@@ -426,5 +426,19 @@ Step 1: Create a new anti-malware policy
 Step 2: Name the policy
 - Give the name to your policy, e.g. "Anti-Malware-AllDepartments"
 <img src="MDO365/Policy41.png">
+ 
+Step 3: Apply to the relevant users and groups
+- Under **Users and domains** add the relevant users
+<img src="MDO365/Policy42.png">
 
+Step 4: Configure the settings of the policy
+- Under **Protection settings** choose the following:
+- Malware action: Quarantine
+- Zero-hour auto purge (ZAP): ✅ On
+- Common attachment types filter: ✅ On
+- Admin notifications: ✅ On
+<img src="MDO365/Policy43.png">
+
+Step 5: Review and submit
+<img src="MDO365/Policy44.png">
 
