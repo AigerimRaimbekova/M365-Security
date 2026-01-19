@@ -1,0 +1,4 @@
+DeviceProcessEvents
+| where FileName =~ "powershell.exe"
+| where ProcessCommandLine has_any ("-enc", "-encodedcommand")
+| project TimeGenerated, DeviceName, AccountName, ProcessCommandLine
